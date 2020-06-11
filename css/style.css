@@ -111,7 +111,8 @@ li {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 86vh;
+  height: 78vh;
+  background-image: url(../img/background1.webp);
 }
 
 .logo {
