@@ -27,6 +27,9 @@ body {
 .fa-docker {
   color: #1ca9e3;
 }
+.fa-line {
+  color: #00FF00;
+}
 
 a {
   text-decoration: none;
@@ -349,6 +352,7 @@ li {
 
 .skill-title {
   margin-bottom: 3px;
+  font-size: larger;
 }
 
 .rate {
