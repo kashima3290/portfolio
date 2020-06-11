@@ -30,6 +30,9 @@ body {
 .fa-line {
   color: #00FF00;
 }
+.fa-aws {
+  color: orange;
+}
 
 a {
   text-decoration: none;
