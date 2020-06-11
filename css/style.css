@@ -15,6 +15,19 @@ body {
   color: #333;
 }
 
+.fa-js {
+  color: #FFD700;
+}
+.fa-gem {
+  color: red;
+}
+.fa-vuejs {
+  color: green;
+}
+.fa-docker {
+  color: #1ca9e3;
+}
+
 a {
   text-decoration: none;
   color: #1ca9e3;
