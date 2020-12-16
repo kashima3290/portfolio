@@ -21,8 +21,8 @@ body {
 .fa-gem {
   color: red;
 }
-.fa-vuejs {
-  color: green;
+.fa-php {
+  color: #6666CC;
 }
 .fa-docker {
   color: #1ca9e3;
@@ -32,6 +32,9 @@ body {
 }
 .fa-aws {
   color: orange;
+}
+.fa-file-excel{
+  color: green;
 }
 
 .fa-twitter {
