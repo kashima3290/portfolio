@@ -135,6 +135,7 @@ li {
   justify-content: center;
   height: 70vh;
   background-image: url(../img/background2.webp);
+  background-size: cover;
 }
 
 .logo {
@@ -293,6 +294,11 @@ li {
 /*--------------------------------
  About
 ---------------------------------*/
+.about-section {
+  background-image: url(../img/background3.jpg);
+  background-size: cover;
+}
+
 .about-section .inner {
   max-width: 1000px;
 }
@@ -324,6 +330,11 @@ li {
 /*--------------------------------
  Skill
 ---------------------------------*/
+.skill-section{
+  background-image: url(../img/background1.webp);
+  background-size: cover;
+}
+
 .skill-section .inner {
   max-width: 1000px;
 }
